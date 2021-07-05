@@ -1,0 +1,12 @@
+p{
+    line-height: 1.5;
+    font-size: 1.25rem; 
+}
+
+navbar{
+    position: fixed !important;
+}
+
+text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
